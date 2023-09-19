@@ -3,5 +3,8 @@
 */*/project
 */*/target
 
+**.ipynb_checkpoints
+**.ipynb
+
 Main.scala
 build.sbt
